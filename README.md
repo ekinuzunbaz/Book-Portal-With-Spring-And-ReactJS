@@ -10,7 +10,7 @@
 ## Folders and Files:<br />
 * Backend part of the application is in **BookPortal** folder<br />
 * Frontend part of the application is in **my-app** folder<br />
-* Script for overall database is provided in **bookPortalDB_script.sql**<br />
+* Script for database is provided in **bookPortalDB_script.sql**<br />
 
 ## Used technologies:<br />
 * MySQL Database<br />
