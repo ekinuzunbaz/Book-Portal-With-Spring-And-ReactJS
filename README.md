@@ -12,7 +12,7 @@
 * Frontend part of the application is in **my-app** folder<br />
 * Script for database is provided in **bookPortalDB_script.sql**<br />
 
-## Used technologies:<br />
+## Used Technologies:<br />
 * MySQL Database<br />
 * Spring Framework<br />
 * React.js<br />
