@@ -8,6 +8,11 @@
 * JSON Web Token (JWT) is also used.
 
 ## Used technologies:<br />
+* Backend part of the application is in BookPortal folder<br />
+* Frontend part of the application is in my-app folder<br />
+* React.js<br />
+
+## Used technologies:<br />
 * MySQL Database<br />
 * Spring Framework<br />
 * React.js<br />
