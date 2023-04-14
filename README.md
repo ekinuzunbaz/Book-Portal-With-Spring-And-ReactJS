@@ -8,9 +8,9 @@
 * JSON Web Token (JWT) is also used.
 
 ## Used technologies:<br />
-* Backend part of the application is in BookPortal folder<br />
-* Frontend part of the application is in my-app folder<br />
-* React.js<br />
+* Backend part of the application is in **BookPortal** folder<br />
+* Frontend part of the application is in **my-app** folder<br />
+* Script for overall database is provided in **sjakgka**<br />
 
 ## Used technologies:<br />
 * MySQL Database<br />
